@@ -26,6 +26,17 @@ El sistema desarrollado contempla las siguientes funcionalidades
 | __Pacientes__                | ABMC de los pacientes atendidos en el centro  |
 | __Usuarios__                | ABMC de los usuarios que utilizan los empleados para acceder al sistema, incluye la gestión de permisos y roles  |
 
+## Pruebas de Testing
+La siguiente lista muestra las pruebas de testing realizadas en el proyecto
+
+| Etapa                    |Prueba realizada|
+| -------------               | ------------- |
+| __Etapa 1__             | Pruebas unitarias realizadas en User Service  |
+| __Etapa 1__             | Pruebas unitarias realizadas en Consultorio Service y Controller  |
+| __Etapa 1__             | Pruebas unitarias realizadas en Turno Service y Controller  |
+| __Etapa 1__             | Prueba manual en la funcionalidad: Iniciar Sesión  |
+| __Etapa 1__             | Prueba manual en la funcionalidad: Registrar nuevo empleado  |
+
 ## Variables de entorno
 
 Antes de la primer ejecucion, deberá crear un archivo .env en la carpeta raiz del proyecto con los siguientes datos:
