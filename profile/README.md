@@ -1,6 +1,6 @@
-![Logo](https://img.plasmic.app/img-optimizer/v1/img?src=https%3A%2F%2Fimg.plasmic.app%2Fimg-optimizer%2Fv1%2Fimg%2F2d73f882bfaa76d8e59ac3ce7e3537df.png&q=75&f=webp)
+![Logo](https://img.plasmic.app/img-optimizer/v1/img?src=https%3A%2F%2Fimg.plasmic.app%2Fimg-optimizer%2Fv1%2Fimg%2F511d05391a986f33325bb4e4327b565c.png&q=75&f=webp)
 
-# Clinify
+# [Clinify](https://clinify.dev)
 Clinify es una web-app que permite la gestión de turnos e historias clínicas de pacientes para centros de salud.
 
 _Este repositorio contiene el código fuente del trabajo práctico integrador del proyecto de código de Testing de software 2025 del grupo B._
